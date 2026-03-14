@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+logs/
+
+# Quarantine storage
+quarantine/
+
+# Build folders
+build/
+dist/
+
+# Dataset files
+*.csv
+*.xlsx
+*.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
